@@ -6,6 +6,7 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'bootstrap-sass'
 gem 'acts_as_votable', '~> 0.12.1'
+gem 'simple_form', '~> 5.0', '>= 5.0.3'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.4'
 # Use sqlite3 as the database for Active Record
